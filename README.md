@@ -1,6 +1,6 @@
 # mdt-summary-agent
 
-> AI-powered multidisciplinary team (MDT) meeting auto-summarization using Gemini 2.5 Flash + EMR context injection.
+> AI-powered multidisciplinary team (MDT) meeting auto-summarization using Gemini + EMR context injection.
 
 Converts STT-transcribed meeting text into structured clinical summaries — reviewed and approved by clinicians to accumulate Ground Truth for future fine-tuning.
 
