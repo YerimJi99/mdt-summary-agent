@@ -12,7 +12,7 @@ from pathlib import Path
 # ──────────────────────────────────────────────
 # Config
 # ──────────────────────────────────────────────
-GEMINI_API_KEY = "AIzaSyCDpVePKnZAY3kTxRoal0LgDu7jB8B2zD8"
+GEMINI_API_KEY = ""
 UPLOAD_DIR     = Path("uploads")
 UPLOAD_DIR.mkdir(exist_ok=True)
 
